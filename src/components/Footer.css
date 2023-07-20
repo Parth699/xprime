@@ -1,0 +1,21 @@
+.app__footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(169,169,169);
+    background-color: rgb(51,51,51);
+    
+    font-family: 'Source Sans Pro', arial, sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    
+    padding: 3rem 2rem;
+    margin: 0px;
+}
+
+.app__footer p{
+    text-align: center;
+}

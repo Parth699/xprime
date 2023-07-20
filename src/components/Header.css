@@ -1,0 +1,13 @@
+.app__header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* height: 50px; */
+    background-color: rgb(51,51,51);
+}
+
+.app__header img{
+    height: 60px;
+    transform: scale(1.4);
+}

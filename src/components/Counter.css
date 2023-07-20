@@ -1,0 +1,13 @@
+.bold_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.counter_label{
+    color: rgb(111,111,111);
+    font-size: medium;
+}
+
+.hide-element{
+    display: none;
+}
